@@ -1,0 +1,18 @@
+param-header:
+  description: >
+    This is a api-ref test header parameter
+  in: header
+  required: false
+  type: string
+param-path:
+  description: >
+    This is a api-ref test path parameter
+  in: path
+  required: false
+  type: string
+param-body:
+  description: >
+    This is a api-ref test body parameter
+  in: body
+  required: false
+  type: string
